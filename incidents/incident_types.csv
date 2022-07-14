@@ -1,0 +1,427 @@
+﻿Code,Document Index (generated),Incident Description,Incident Url Name,Model,Table Name,IncidentTypes,Pin Type,Pk,Viewable
+0101,1,MURDER,murder,nhcrimelog.incidenttype,02_incident_types.json,1,1,1,1
+0102,2,MISCONDUCT WITH A M/V,misconduct-with-a-mv,nhcrimelog.incidenttype,02_incident_types.json,2,2,2,1
+0103,3,MANSLAUGHTER,manslaughter,nhcrimelog.incidenttype,02_incident_types.json,3,1,3,1
+0104,4,CRIMINAL.NEGLIGENT HOMICIDE,criminalnegligent-homicide,nhcrimelog.incidenttype,02_incident_types.json,4,1,4,1
+0105,5,KILLING OF A POLICE OFFICER,killing-of-a-police-officer,nhcrimelog.incidenttype,02_incident_types.json,5,1,5,1
+0150,6,MANSLAUGHTER- NEGLIGENT,manslaughter-negligent,nhcrimelog.incidenttype,02_incident_types.json,6,1,6,1
+0151,7,SUICIDE,suicide,nhcrimelog.incidenttype,02_incident_types.json,7,2,7,1
+0152,8,ATTEMPTED SUICIDE,attempted-suicide,nhcrimelog.incidenttype,02_incident_types.json,8,2,8,1
+0153,9,ALL CASES- DEAD ON ARRIVAL,all-cases-dead-on-arrival,nhcrimelog.incidenttype,02_incident_types.json,9,1,9,1
+0154,10,SUDDEN DEATH/BODIES FOUND,sudden-deathbodies-found,nhcrimelog.incidenttype,02_incident_types.json,10,1,10,1
+0155,11,SUDDEN DEATH- APPARENT O.D.,sudden-death-apparent-od,nhcrimelog.incidenttype,02_incident_types.json,11,1,11,1
+0201,12,RAPE- FORCIBLE,rape-forcible,nhcrimelog.incidenttype,02_incident_types.json,12,1,12,0
+0202,13,RAPE- WITHOUT CONSENT,rape-without-consent,nhcrimelog.incidenttype,02_incident_types.json,13,1,13,0
+0203,14,RAPE- STATUTORY- UNDER 14,rape-statutory-under-14,nhcrimelog.incidenttype,02_incident_types.json,14,1,14,0
+0204,15,RAPE- STATUTORY- UNDER 16,rape-statutory-under-16,nhcrimelog.incidenttype,02_incident_types.json,15,1,15,0
+0205,16,RAPE- WITHOUT FORCE,rape-without-force,nhcrimelog.incidenttype,02_incident_types.json,16,1,16,0
+0206,17,ATTEMPTED RAPE,attempted-rape,nhcrimelog.incidenttype,02_incident_types.json,17,1,17,0
+0301,18,ROBBERY- COMM.-FIREARM,robbery-commfirearm,nhcrimelog.incidenttype,02_incident_types.json,18,2,18,1
+0302,19,ROBBERY- COMM.- OTHER WEAPON,robbery-comm-other-weapon,nhcrimelog.incidenttype,02_incident_types.json,19,2,19,1
+0303,20,ROBBERY- COMM.- NO WEAPON,robbery-comm-no-weapon,nhcrimelog.incidenttype,02_incident_types.json,20,2,20,1
+0304,21,ROBBERY- RES.- FIREARM,robbery-res-firearm,nhcrimelog.incidenttype,02_incident_types.json,21,2,21,1
+0305,22,ROBBERY- RES.- OTHER WEAPON,robbery-res-other-weapon,nhcrimelog.incidenttype,02_incident_types.json,22,2,22,1
+0306,23,ROBBERY- RES.- NO WEAPON,robbery-res-no-weapon,nhcrimelog.incidenttype,02_incident_types.json,23,2,23,1
+0307,24,ROBBERY- STREET- FIREARM,robbery-street-firearm,nhcrimelog.incidenttype,02_incident_types.json,24,2,24,1
+0308,25,ROBBERY- STREET- OTHER WEAP,robbery-street-other-weap,nhcrimelog.incidenttype,02_incident_types.json,25,2,25,1
+0309,26,ROBBERY- STREET- NO WEAPON,robbery-street-no-weapon,nhcrimelog.incidenttype,02_incident_types.json,26,2,26,1
+0310,27,ROBBERY- ATTEMPT- FIREARM,robbery-attempt-firearm,nhcrimelog.incidenttype,02_incident_types.json,27,2,27,1
+0311,28,ROBBERY- ATTEMPT- OTH. WEAP,robbery-attempt-oth-weap,nhcrimelog.incidenttype,02_incident_types.json,28,2,28,1
+0312,29,ROBBERY- ATTEMPT- NO WEAPON,robbery-attempt-no-weapon,nhcrimelog.incidenttype,02_incident_types.json,29,2,29,1
+0401,30,ASSAULT WITH INTENT TO KILL,assault-with-intent-to-kill,nhcrimelog.incidenttype,02_incident_types.json,30,1,30,1
+0402,31,ASSAULT TO COMMIT MURDER,assault-to-commit-murder,nhcrimelog.incidenttype,02_incident_types.json,31,1,31,1
+0403,32,ASSAULT WITH A FIREARM,assault-with-a-firearm,nhcrimelog.incidenttype,02_incident_types.json,32,1,32,1
+0404,33,ASSAULT W/DANGEROUS WEAPON,assault-wdangerous-weapon,nhcrimelog.incidenttype,02_incident_types.json,33,1,33,1
+0501,34,BURGLARY- RES.-FORCIBLE,burglary-resforcible,nhcrimelog.incidenttype,02_incident_types.json,34,2,34,1
+0502,35,BURGLARY- RES.-NON-FORCIBLE,burglary-resnonforcible,nhcrimelog.incidenttype,02_incident_types.json,35,2,35,1
+0503,36,BURGLARY- APT.-FORCIBLE,burglary-aptforcible,nhcrimelog.incidenttype,02_incident_types.json,36,2,36,1
+0504,37,BURGLARY- APT.-NON-FORCIBLE,burglary-aptnonforcible,nhcrimelog.incidenttype,02_incident_types.json,37,2,37,1
+0505,38,BURGLARY- HOTEL-FORCIBLE,burglary-hotelforcible,nhcrimelog.incidenttype,02_incident_types.json,38,2,38,1
+0506,39,BURGLARY- HOTEL-NON-FORCIBLE,burglary-hotelnonforcible,nhcrimelog.incidenttype,02_incident_types.json,39,2,39,1
+0507,40,BURGLARY- COMM.-FORCIBLE,burglary-commforcible,nhcrimelog.incidenttype,02_incident_types.json,40,2,40,1
+0508,41,BURGLARY- COMM.-NON-FORCIBLE,burglary-commnonforcible,nhcrimelog.incidenttype,02_incident_types.json,41,2,41,1
+0509,42,BURGLARY- SCHOOL-FORCIBLE,burglary-schoolforcible,nhcrimelog.incidenttype,02_incident_types.json,42,2,42,1
+0510,43,BURGLARY- SCHOOL-NON-FORC,burglary-schoolnonforc,nhcrimelog.incidenttype,02_incident_types.json,43,2,43,1
+0511,44,BURGLARY- OTHER- FORCIBLE,burglary-other-forcible,nhcrimelog.incidenttype,02_incident_types.json,44,2,44,1
+0512,45,BURGLARY- OTHER-NON-FORC,burglary-othernonforc,nhcrimelog.incidenttype,02_incident_types.json,45,2,45,1
+0513,46,BURGLARY WITH VIOLENCE,burglary-with-violence,nhcrimelog.incidenttype,02_incident_types.json,46,1,46,1
+0514,47,BURGLARY- NOTHING TAKEN,burglary-nothing-taken,nhcrimelog.incidenttype,02_incident_types.json,47,3,47,1
+0515,48,BURGLARY ATTEMPT,burglary-attempt,nhcrimelog.incidenttype,02_incident_types.json,48,3,48,1
+0516,49,POSSESION OF BURGLAR TOOLS,possesion-of-burglar-tools,nhcrimelog.incidenttype,02_incident_types.json,49,3,49,1
+0601,50,THEFT- SHOPLIFTING<$50,theft-shoplifting50,nhcrimelog.incidenttype,02_incident_types.json,50,3,50,1
+0602,51,THEFT- RESIDENCE<$50,theft-residence50,nhcrimelog.incidenttype,02_incident_types.json,51,3,51,1
+0603,52,THEFT- PUBLIC BUILDING<$50,theft-public-building50,nhcrimelog.incidenttype,02_incident_types.json,52,3,52,1
+0604,53,THEFT- FR. M/V NON-AUTO<$50,theft-fr-mv-nonauto50,nhcrimelog.incidenttype,02_incident_types.json,53,3,53,1
+0605,54,THEFT- FROM AUTO<$50,theft-from-auto50,nhcrimelog.incidenttype,02_incident_types.json,54,3,54,1
+0606,55,THEFT- AUTO ACCESSORIES<$50,theft-auto-accessories50,nhcrimelog.incidenttype,02_incident_types.json,55,3,55,1
+0607,56,THEFT- BICYCLES<$50,theft-bicycles50,nhcrimelog.incidenttype,02_incident_types.json,56,3,56,1
+0608,57,THEFT- FROM MAIL<$50,theft-from-mail50,nhcrimelog.incidenttype,02_incident_types.json,57,3,57,1
+0609,58,THEFT- PURSE SNATCH<$50,theft-purse-snatch50,nhcrimelog.incidenttype,02_incident_types.json,58,3,58,1
+0610,59,THEFT- PICKPOCKET<$50,theft-pickpocket50,nhcrimelog.incidenttype,02_incident_types.json,59,3,59,1
+0611,60,THEFT- ANIMAL<$50,theft-animal50,nhcrimelog.incidenttype,02_incident_types.json,60,3,60,1
+0612,61,THEFT- UNIVERSITY RES. BLDG,theft-university-res-bldg,nhcrimelog.incidenttype,02_incident_types.json,61,3,61,1
+0613,62,THEFT- UNIVERSITY ACAD.BLDG,theft-university-acadbldg,nhcrimelog.incidenttype,02_incident_types.json,62,3,62,1
+0614,63,THEFT- FROM HOTEL<$50,theft-from-hotel50,nhcrimelog.incidenttype,02_incident_types.json,63,3,63,1
+0615,64,THEFT- OF FIREARM<$50,theft-of-firearm50,nhcrimelog.incidenttype,02_incident_types.json,64,3,64,1
+0616,65,THEFT- ATTEMPTED<$50,theft-attempted50,nhcrimelog.incidenttype,02_incident_types.json,65,3,65,1
+0617,66,THEFT- MISCELLANEOUS<$50,theft-miscellaneous50,nhcrimelog.incidenttype,02_incident_types.json,66,3,66,1
+0618,67,THEFT- CHECKS<$50,theft-checks50,nhcrimelog.incidenttype,02_incident_types.json,67,3,67,1
+0619,68,THEFT- CREDIT CARDS<$50,theft-credit-cards50,nhcrimelog.incidenttype,02_incident_types.json,68,3,68,1
+0651,69,THEFT- SHOPLIFTING >$50,theft-shoplifting-50,nhcrimelog.incidenttype,02_incident_types.json,69,3,69,1
+0652,70,THEFT- RESIDENCE >$50,theft-residence-50,nhcrimelog.incidenttype,02_incident_types.json,70,3,70,1
+0653,71,THEFT- PUBLIC BLDG. >$50,theft-public-bldg-50,nhcrimelog.incidenttype,02_incident_types.json,71,3,71,1
+0654,72,THEFT- FR.M/V NON-AUTO >$50,theft-frmv-nonauto-50,nhcrimelog.incidenttype,02_incident_types.json,72,3,72,1
+0655,73,THEFT- FROM AUTO >$50,theft-from-auto-50,nhcrimelog.incidenttype,02_incident_types.json,73,3,73,1
+0656,74,THEFT- AUTO ACCESSORIES >$50,theft-auto-accessories-50,nhcrimelog.incidenttype,02_incident_types.json,74,3,74,1
+0657,75,THEFT- BICYCLE >$50,theft-bicycle-50,nhcrimelog.incidenttype,02_incident_types.json,75,3,75,1
+0658,76,THEFT- FROM MAIL >$50,theft-from-mail-50,nhcrimelog.incidenttype,02_incident_types.json,76,3,76,1
+0659,77,THEFT- PURSE SNATCH >$50,theft-purse-snatch-50,nhcrimelog.incidenttype,02_incident_types.json,77,3,77,1
+0660,78,THEFT- PICKPOCKET >$50,theft-pickpocket-50,nhcrimelog.incidenttype,02_incident_types.json,78,3,78,1
+0661,79,THEFT- ANIMAL >$50,theft-animal-50,nhcrimelog.incidenttype,02_incident_types.json,79,3,79,1
+0662,80,THEFT- UNIV RESIDENCE >$50,theft-univ-residence-50,nhcrimelog.incidenttype,02_incident_types.json,80,3,80,1
+0663,81,THEFT- UNIV ACADEMIC >$50,theft-univ-academic-50,nhcrimelog.incidenttype,02_incident_types.json,81,3,81,1
+0664,82,THEFT- FROM HOTEL >$50,theft-from-hotel-50,nhcrimelog.incidenttype,02_incident_types.json,82,3,82,1
+0665,83,THEFT- OF FIREARM >$50,theft-of-firearm-50,nhcrimelog.incidenttype,02_incident_types.json,83,3,83,1
+0666,84,THEFT- ATTEMPTED >$50,theft-attempted-50,nhcrimelog.incidenttype,02_incident_types.json,84,3,84,1
+0667,85,THEFT- MISCELLANEOUS >$50,theft-miscellaneous-50,nhcrimelog.incidenttype,02_incident_types.json,85,3,85,1
+0701,86,THEFT OF AUTO,theft-of-auto,nhcrimelog.incidenttype,02_incident_types.json,86,3,86,1
+0702,87,RECOVERED AUTO (STOLEN O/T),recovered-auto-stolen-ot,nhcrimelog.incidenttype,02_incident_types.json,87,3,87,1
+0703,88,THEFT OF LICENSE PLATES,theft-of-license-plates,nhcrimelog.incidenttype,02_incident_types.json,88,3,88,1
+0703S,89,THEFT OF LIC INSERT STICKER,theft-of-lic-insert-sticker,nhcrimelog.incidenttype,02_incident_types.json,89,3,89,1
+0704,90,RECOVERED PLATES(STOLEN O/T),recovered-platesstolen-ot,nhcrimelog.incidenttype,02_incident_types.json,90,3,90,1
+0705,91,THEFT - OTHER M/V,theft-other-mv,nhcrimelog.incidenttype,02_incident_types.json,91,3,91,1
+0706,92,RECOVERED-OTHER (STOLEN O/T),recoveredother-stolen-ot,nhcrimelog.incidenttype,02_incident_types.json,92,3,92,1
+0707,93,OPER. W/O OWNERS PERMISSION,oper-wo-owners-permission,nhcrimelog.incidenttype,02_incident_types.json,93,3,93,1
+0708,94,"THEFT OF LIC, REG, OR TITLE",theft-of-lic-reg-or-title,nhcrimelog.incidenttype,02_incident_types.json,94,3,94,1
+0709,95,ATT THEFT OF MV OR DOCUMENTS,att-theft-of-mv-or-documents,nhcrimelog.incidenttype,02_incident_types.json,95,3,95,1
+0710,96,TAMPERING WITH MOTOR VEH.,tampering-with-motor-veh,nhcrimelog.incidenttype,02_incident_types.json,96,3,96,1
+0711,97,STOLEN AUTO N.H/RECVD N.H,stolen-auto-nhrecvd-nh,nhcrimelog.incidenttype,02_incident_types.json,97,4,97,1
+0712,98,STOLEN AUTO N.H/RECVD O.T,stolen-auto-nhrecvd-ot,nhcrimelog.incidenttype,02_incident_types.json,98,4,98,1
+0715,99,STOLEN OTHER N.H/RECVD N.H,stolen-other-nhrecvd-nh,nhcrimelog.incidenttype,02_incident_types.json,99,4,99,1
+0716,100,STOLEN OTHER N.H/RECVD O.T,stolen-other-nhrecvd-ot,nhcrimelog.incidenttype,02_incident_types.json,100,4,100,1
+0717,101,STOLEN PLATE N.H/RECVD N.H,stolen-plate-nhrecvd-nh,nhcrimelog.incidenttype,02_incident_types.json,101,4,101,1
+0718,102,STOLEN PLATE N.H/RECVD O.T,stolen-plate-nhrecvd-ot,nhcrimelog.incidenttype,02_incident_types.json,102,4,102,1
+0801,103,ASSLT P/O; FIREFIGHTER OR CO,asslt-po-firefighter-or-co,nhcrimelog.incidenttype,02_incident_types.json,103,1,103,1
+0802,104,CHILD ASSAULT,child-assault,nhcrimelog.incidenttype,02_incident_types.json,104,1,104,0
+0803,105,RISK OF INJURY TO A CHILD,risk-of-injury-to-a-child,nhcrimelog.incidenttype,02_incident_types.json,105,1,105,0
+0804,106,STUDENT-TEACHER ASSAULT,studentteacher-assault,nhcrimelog.incidenttype,02_incident_types.json,106,1,106,0
+0805,107,SIMPLE ASSAULT,simple-assault,nhcrimelog.incidenttype,02_incident_types.json,107,1,107,1
+0806,108,THREATENING,threatening,nhcrimelog.incidenttype,02_incident_types.json,108,2,108,1
+0807,109,RECKLESS ENDANGERMENT,reckless-endangerment,nhcrimelog.incidenttype,02_incident_types.json,109,2,109,1
+0808,110,FIGHT,fight,nhcrimelog.incidenttype,02_incident_types.json,110,2,110,1
+0809,111,FIGHT - JUVENILE,fight-juvenile,nhcrimelog.incidenttype,02_incident_types.json,111,2,111,0
+0810,112,BOMB SCARE,bomb-scare,nhcrimelog.incidenttype,02_incident_types.json,112,2,112,1
+0811,113,ATTEMPTED ASSAULT,attempted-assault,nhcrimelog.incidenttype,02_incident_types.json,113,2,113,1
+0850,114,BREACH OF PEACE,breach-of-peace,nhcrimelog.incidenttype,02_incident_types.json,114,2,114,1
+0851,115,DISORDERLY CONDUCT,disorderly-conduct,nhcrimelog.incidenttype,02_incident_types.json,115,2,115,1
+0852,116,HARASSMENT,harassment,nhcrimelog.incidenttype,02_incident_types.json,116,2,116,1
+0853,117,RIOT,riot,nhcrimelog.incidenttype,02_incident_types.json,117,1,117,1
+0854,118,INCITING TO RIOT,inciting-to-riot,nhcrimelog.incidenttype,02_incident_types.json,118,1,118,1
+0855,119,INCITING INJURY TO PERSONS,inciting-injury-to-persons,nhcrimelog.incidenttype,02_incident_types.json,119,1,119,1
+0856,120,UNLAWFUL ASSEMBLY,unlawful-assembly,nhcrimelog.incidenttype,02_incident_types.json,120,1,120,1
+0857,121,ROVING GANGS,roving-gangs,nhcrimelog.incidenttype,02_incident_types.json,121,1,121,1
+0858,122,SCHOOL DISTURBANCES,school-disturbances,nhcrimelog.incidenttype,02_incident_types.json,122,2,122,1
+0859,123,LANDLORD-TENANT DISPUTE,landlordtenant-dispute,nhcrimelog.incidenttype,02_incident_types.json,123,2,123,1
+0860,124,DISPUTE-NO DISTURBANCE,disputeno-disturbance,nhcrimelog.incidenttype,02_incident_types.json,124,3,124,1
+0901,125,ARSON,arson,nhcrimelog.incidenttype,02_incident_types.json,125,1,125,1
+0902,126,RECKLESS BURNING,reckless-burning,nhcrimelog.incidenttype,02_incident_types.json,126,2,126,1
+0903,127,ATTEMPTED ARSON,attempted-arson,nhcrimelog.incidenttype,02_incident_types.json,127,1,127,1
+0904,128,SUSPICIOUS FIRES,suspicious-fires,nhcrimelog.incidenttype,02_incident_types.json,128,1,128,1
+0905,129,FIRE BOMBING,fire-bombing,nhcrimelog.incidenttype,02_incident_types.json,129,1,129,1
+1001,130,FORGERY OF PUBLIC RECORDS,forgery-of-public-records,nhcrimelog.incidenttype,02_incident_types.json,130,2,130,1
+1002,131,"FORGERY-CHECKS, MV DOCUMENT",forgerychecks-mv-document,nhcrimelog.incidenttype,02_incident_types.json,131,2,131,1
+1003,132,CRIMINAL SIMULATION,criminal-simulation,nhcrimelog.incidenttype,02_incident_types.json,132,2,132,1
+1101,133,FRAUD,fraud,nhcrimelog.incidenttype,02_incident_types.json,133,3,133,1
+1102,134,FRAUD WITH CREDIT CARD,fraud-with-credit-card,nhcrimelog.incidenttype,02_incident_types.json,134,3,134,1
+1103,135,CONFIDENCE - FLIM FLAM,confidence-flim-flam,nhcrimelog.incidenttype,02_incident_types.json,135,3,135,1
+1104,136,"ACQUIRING PROP LOST, MISLAID",acquiring-prop-lost-mislaid,nhcrimelog.incidenttype,02_incident_types.json,136,3,136,1
+1105,137,EXTORTION,extortion,nhcrimelog.incidenttype,02_incident_types.json,137,1,137,1
+1106,138,THEFT OF SERVICES,theft-of-services,nhcrimelog.incidenttype,02_incident_types.json,138,2,138,1
+1107,139,ISSUING BAD CHECKS,issuing-bad-checks,nhcrimelog.incidenttype,02_incident_types.json,139,2,139,1
+1108,140,CRIM IMPERSONATION-NON P/O,crim-impersonationnon-po,nhcrimelog.incidenttype,02_incident_types.json,140,2,140,1
+1109,141,MISAPPLICATION OF PROPERTY,misapplication-of-property,nhcrimelog.incidenttype,02_incident_types.json,141,2,141,1
+1110,142,THEFT OF A PUBLIC RECORD,theft-of-a-public-record,nhcrimelog.incidenttype,02_incident_types.json,142,2,142,1
+1111,143,THEFT OF SECRET,theft-of-secret,nhcrimelog.incidenttype,02_incident_types.json,143,2,143,1
+1201,144,EMBEZZLEMENT,embezzlement,nhcrimelog.incidenttype,02_incident_types.json,144,3,144,1
+1301,145,RECEIVING STOLEN PROPERTY,receiving-stolen-property,nhcrimelog.incidenttype,02_incident_types.json,145,3,145,1
+1302,146,LOST PROPERTY,lost-property,nhcrimelog.incidenttype,02_incident_types.json,146,4,146,1
+1303,147,FOUND PROPERTY,found-property,nhcrimelog.incidenttype,02_incident_types.json,147,4,147,1
+1304,148,RECOVERED PROP OWNER KNOWN,recovered-prop-owner-known,nhcrimelog.incidenttype,02_incident_types.json,148,4,148,1
+1305,149,RECOVERED PROP OWNER UNK,recovered-prop-owner-unk,nhcrimelog.incidenttype,02_incident_types.json,149,4,149,1
+1306,150,MYSTERIOUS LOSS OF MONEY,mysterious-loss-of-money,nhcrimelog.incidenttype,02_incident_types.json,150,3,150,1
+1401,151,"CRIM MISCHIEF, PUB PROP/SVC",crim-mischief-pub-propsvc,nhcrimelog.incidenttype,02_incident_types.json,151,3,151,1
+1402,152,"CRIM MISCHIEF, PRIV PROP",crim-mischief-priv-prop,nhcrimelog.incidenttype,02_incident_types.json,152,3,152,1
+1403,153,TAMPERING WITH ALARM BOX,tampering-with-alarm-box,nhcrimelog.incidenttype,02_incident_types.json,153,3,153,1
+1404,154,WINDOW BREAKING,window-breaking,nhcrimelog.incidenttype,02_incident_types.json,154,3,154,1
+1501,155,CARRYING A CONCEALED WEAPON,carrying-a-concealed-weapon,nhcrimelog.incidenttype,02_incident_types.json,155,2,155,1
+1502,156,POSS OF PROHIB/UNLIC WEAPON,poss-of-prohibunlic-weapon,nhcrimelog.incidenttype,02_incident_types.json,156,2,156,1
+1503,157,ILLEGAL POSS OF A WEAPON,illegal-poss-of-a-weapon,nhcrimelog.incidenttype,02_incident_types.json,157,2,157,1
+1504,158,FURNISH WEAPON TO A MINOR,furnish-weapon-to-a-minor,nhcrimelog.incidenttype,02_incident_types.json,158,2,158,1
+1505,159,ILLEGAL MANUFAC OF WEAPON,illegal-manufac-of-weapon,nhcrimelog.incidenttype,02_incident_types.json,159,2,159,1
+1506,160,ILLEGAL SALE OF A WEAPON,illegal-sale-of-a-weapon,nhcrimelog.incidenttype,02_incident_types.json,160,2,160,1
+1507,161,SALE OF DANG OR PROHIB WEAP,sale-of-dang-or-prohib-weap,nhcrimelog.incidenttype,02_incident_types.json,161,2,161,1
+1508,162,USE OF PROHIBITED WEAPON,use-of-prohibited-weapon,nhcrimelog.incidenttype,02_incident_types.json,162,2,162,1
+1509,163,CARRYING OF BB GUN,carrying-of-bb-gun,nhcrimelog.incidenttype,02_incident_types.json,163,3,163,1
+1510,164,USE OF BB GUN,use-of-bb-gun,nhcrimelog.incidenttype,02_incident_types.json,164,3,164,1
+1511,165,CARRYING WEAPON IN M/V,carrying-weapon-in-mv,nhcrimelog.incidenttype,02_incident_types.json,165,2,165,1
+1512,166,POSS OF INDENDIARY DEVICE,poss-of-indendiary-device,nhcrimelog.incidenttype,02_incident_types.json,166,1,166,1
+1513,167,FIREARMS -UNLAWFUL DISCHARGE,firearms-unlawful-discharge,nhcrimelog.incidenttype,02_incident_types.json,167,1,167,1
+1601,168,PROSTITUTION,prostitution,nhcrimelog.incidenttype,02_incident_types.json,168,3,168,1
+1602,169,PATRONIZING A PROSTITUTE,patronizing-a-prostitute,nhcrimelog.incidenttype,02_incident_types.json,169,3,169,1
+1603,170,PROMOTING PROSTITUTION,promoting-prostitution,nhcrimelog.incidenttype,02_incident_types.json,170,3,170,1
+1604,171,PERMITTING PROSTITUTION,permitting-prostitution,nhcrimelog.incidenttype,02_incident_types.json,171,3,171,1
+1701,172,SEXUAL MISCONDUCT-GUARDIAN,sexual-misconductguardian,nhcrimelog.incidenttype,02_incident_types.json,172,1,172,0
+1702,173,SEXUAL MISCONDUCT-SODOMY,sexual-misconductsodomy,nhcrimelog.incidenttype,02_incident_types.json,173,1,173,0
+1703,174,DEVIATE SEX.INTERCOURSE-FOR,deviate-sexintercoursefor,nhcrimelog.incidenttype,02_incident_types.json,174,1,174,0
+1704,175,DEVIATE SEX.INTERCOURSE <14,deviate-sexintercourse-14,nhcrimelog.incidenttype,02_incident_types.json,175,1,175,0
+1705,176,DEVIATE SEX.INTERCOURSE <16,deviate-sexintercourse-16,nhcrimelog.incidenttype,02_incident_types.json,176,1,176,0
+1706,177,SEXUAL CONTACT- FORCIBLE,sexual-contact-forcible,nhcrimelog.incidenttype,02_incident_types.json,177,1,177,0
+1707,178,SEXUAL CONTACT- UNDER 11,sexual-contact-under-11,nhcrimelog.incidenttype,02_incident_types.json,178,1,178,0
+1708,179,SEXUAL CONTACT- UNDER 14,sexual-contact-under-14,nhcrimelog.incidenttype,02_incident_types.json,179,1,179,0
+1709,180,SEXUAL CONTACT- UNDER 16,sexual-contact-under-16,nhcrimelog.incidenttype,02_incident_types.json,180,1,180,0
+1710,181,ADULTERY,adultery,nhcrimelog.incidenttype,02_incident_types.json,181,4,181,0
+1711,182,BIGAMY,bigamy,nhcrimelog.incidenttype,02_incident_types.json,182,4,182,0
+1712,183,PUBLIC INDECENCY-INDEC. EXP,public-indecencyindec-exp,nhcrimelog.incidenttype,02_incident_types.json,183,3,183,0
+1713,184,FORNICATION,fornication,nhcrimelog.incidenttype,02_incident_types.json,184,3,184,0
+1714,185,ILLEGAL COHABITATION,illegal-cohabitation,nhcrimelog.incidenttype,02_incident_types.json,185,4,185,0
+1715,186,INCEST,incest,nhcrimelog.incidenttype,02_incident_types.json,186,1,186,0
+1716,187,HOMOSEXUAL ASSAULT,homosexual-assault,nhcrimelog.incidenttype,02_incident_types.json,187,1,187,0
+1717,188,HOMOSEXUAL SOLICITING,homosexual-soliciting,nhcrimelog.incidenttype,02_incident_types.json,188,2,188,0
+1718,189,VOYEURISM- PEEPING TOM,voyeurism-peeping-tom,nhcrimelog.incidenttype,02_incident_types.json,189,4,189,0
+1801,190,POSSESS.OF NARCOTICS-GENERAL,possessof-narcoticsgeneral,nhcrimelog.incidenttype,02_incident_types.json,190,2,190,1
+1802,191,SALE OF NARCOTICS-GENERAL,sale-of-narcoticsgeneral,nhcrimelog.incidenttype,02_incident_types.json,191,2,191,1
+1803,192,POSSESSION OF HEROIN,possession-of-heroin,nhcrimelog.incidenttype,02_incident_types.json,192,2,192,1
+1804,193,SALE OF HEROIN,sale-of-heroin,nhcrimelog.incidenttype,02_incident_types.json,193,2,193,1
+1805,194,POSSESS.DANG./CONTROL. DRUGS,possessdangcontrol-drugs,nhcrimelog.incidenttype,02_incident_types.json,194,2,194,1
+1806,195,SALE DANG./CONTROLLED DRUGS,sale-dangcontrolled-drugs,nhcrimelog.incidenttype,02_incident_types.json,195,2,195,1
+1807,196,MFG DANGEROS/CONTROLED DRUGS,mfg-dangeroscontroled-drugs,nhcrimelog.incidenttype,02_incident_types.json,196,2,196,1
+1808,197,POSSESSION OF MARIJUANA,possession-of-marijuana,nhcrimelog.incidenttype,02_incident_types.json,197,2,197,1
+1809,198,SALE OF MARIJUANA,sale-of-marijuana,nhcrimelog.incidenttype,02_incident_types.json,198,2,198,1
+1810,199,CULTIVATION OF MARIJUANA,cultivation-of-marijuana,nhcrimelog.incidenttype,02_incident_types.json,199,2,199,1
+1811,200,POSSESSION OF HASHISH,possession-of-hashish,nhcrimelog.incidenttype,02_incident_types.json,200,2,200,1
+1812,201,SALE OF HASHISH,sale-of-hashish,nhcrimelog.incidenttype,02_incident_types.json,201,2,201,1
+1813,202,MANUFACTURE OF HALLUCINOGENS,manufacture-of-hallucinogens,nhcrimelog.incidenttype,02_incident_types.json,202,2,202,1
+1814,203,FORGING NARCOTIC PRESCRIPT,forging-narcotic-prescript,nhcrimelog.incidenttype,02_incident_types.json,203,2,203,1
+1815,204,POSSESSION OF PARAPHERNALIA,possession-of-paraphernalia,nhcrimelog.incidenttype,02_incident_types.json,204,2,204,1
+1816,205,OBTAIN.DRUGS FALSE PRETENSES,obtaindrugs-false-pretenses,nhcrimelog.incidenttype,02_incident_types.json,205,2,205,1
+1817,206,ATTEMPTED DRUG OFFENSES,attempted-drug-offenses,nhcrimelog.incidenttype,02_incident_types.json,206,2,206,1
+1901,207,KEEPING GAMBLING DEVICES,keeping-gambling-devices,nhcrimelog.incidenttype,02_incident_types.json,207,2,207,1
+1902,208,PLAYING GAMBLING DEVICES,playing-gambling-devices,nhcrimelog.incidenttype,02_incident_types.json,208,2,208,1
+1903,209,FREQUENTING GAMBLING HOUSE,frequenting-gambling-house,nhcrimelog.incidenttype,02_incident_types.json,209,2,209,1
+1904,210,KEEPING GAMBLING HOUSE,keeping-gambling-house,nhcrimelog.incidenttype,02_incident_types.json,210,2,210,1
+1905,211,POOL SELLING,pool-selling,nhcrimelog.incidenttype,02_incident_types.json,211,2,211,1
+1906,212,POLICY PLAYING,policy-playing,nhcrimelog.incidenttype,02_incident_types.json,212,2,212,1
+1907,213,GAMBLING OFFENSES- OTHER,gambling-offenses-other,nhcrimelog.incidenttype,02_incident_types.json,213,2,213,1
+1908,214,GAMING,gaming,nhcrimelog.incidenttype,02_incident_types.json,214,2,214,1
+2001,215,NON-SUPPORT OF FAMILY,nonsupport-of-family,nhcrimelog.incidenttype,02_incident_types.json,215,3,215,1
+2002,216,DESERTION OF FAMILY,desertion-of-family,nhcrimelog.incidenttype,02_incident_types.json,216,3,216,1
+2003,217,NON-PAYMENY OF ALIMONY,nonpaymeny-of-alimony,nhcrimelog.incidenttype,02_incident_types.json,217,3,217,1
+2004,218,NEGLECT OR ABUSE OF FAMILY,neglect-or-abuse-of-family,nhcrimelog.incidenttype,02_incident_types.json,218,1,218,1
+2005,219,FAMILY DISPUTE,family-dispute,nhcrimelog.incidenttype,02_incident_types.json,219,2,219,1
+2101,220,D.W.I.- ALCOHOL,dwi-alcohol,nhcrimelog.incidenttype,02_incident_types.json,220,2,220,1
+2102,221,D.W.I.- DRUGS,dwi-drugs,nhcrimelog.incidenttype,02_incident_types.json,221,2,221,1
+2201,222,SERVING LIQUOR TO MINORS,serving-liquor-to-minors,nhcrimelog.incidenttype,02_incident_types.json,222,3,222,1
+2202,223,SELLING LIQUOR TO MINORS,selling-liquor-to-minors,nhcrimelog.incidenttype,02_incident_types.json,223,3,223,1
+2203,224,MINOR CONSUMING ALCOHOL,minor-consuming-alcohol,nhcrimelog.incidenttype,02_incident_types.json,224,3,224,1
+2204,225,MISREPRESENTING AGE/LIQUOR,misrepresenting-ageliquor,nhcrimelog.incidenttype,02_incident_types.json,225,3,225,1
+2205,226,LIQUOR SALE W/O LICENSE,liquor-sale-wo-license,nhcrimelog.incidenttype,02_incident_types.json,226,3,226,1
+2206,227,SELLING LIQUOR TO DRUNKARDS,selling-liquor-to-drunkards,nhcrimelog.incidenttype,02_incident_types.json,227,3,227,1
+2207,228,OWNING LIQUOR W/INT. TO SELL,owning-liquor-wint-to-sell,nhcrimelog.incidenttype,02_incident_types.json,228,3,228,1
+2208,229,MANUFACTURE OF LIQUOR,manufacture-of-liquor,nhcrimelog.incidenttype,02_incident_types.json,229,3,229,1
+2209,230,SALE OF LIQUOR OFF HOURS,sale-of-liquor-off-hours,nhcrimelog.incidenttype,02_incident_types.json,230,3,230,1
+2210,231,OTHER LIQUOR OFFENSES,other-liquor-offenses,nhcrimelog.incidenttype,02_incident_types.json,231,3,231,1
+2601,232,ANIMAL NUISANCE,animal-nuisance,nhcrimelog.incidenttype,02_incident_types.json,232,4,232,1
+2602,233,ANIMAL BITES,animal-bites,nhcrimelog.incidenttype,02_incident_types.json,233,4,233,1
+2603,234,CRIMINAL TRESPASS,criminal-trespass,nhcrimelog.incidenttype,02_incident_types.json,234,2,234,1
+2604,235,DISCHARGING FIREWORKS,discharging-fireworks,nhcrimelog.incidenttype,02_incident_types.json,235,4,235,1
+2605,236,MANUFACTURE OF FIREWORKS,manufacture-of-fireworks,nhcrimelog.incidenttype,02_incident_types.json,236,4,236,1
+2606,237,SALE OF FIREWORKS,sale-of-fireworks,nhcrimelog.incidenttype,02_incident_types.json,237,4,237,1
+2607,238,CRUELTY TO ANIMALS,cruelty-to-animals,nhcrimelog.incidenttype,02_incident_types.json,238,3,238,1
+2608,239,ABANDONED MOTOR VEHICLE,abandoned-motor-vehicle,nhcrimelog.incidenttype,02_incident_types.json,239,5,239,1
+2609,240,LITTERING VIOLATIONS,littering-violations,nhcrimelog.incidenttype,02_incident_types.json,240,5,240,1
+2610,241,OTHER NUISANCES,other-nuisances,nhcrimelog.incidenttype,02_incident_types.json,241,5,241,1
+2611,242,DRUG OVERDOSE,drug-overdose,nhcrimelog.incidenttype,02_incident_types.json,242,3,242,1
+2612,243,EMOTIONALLY DISTURBED,emotionally-disturbed,nhcrimelog.incidenttype,02_incident_types.json,243,4,243,1
+2613,244,CORONARIES,coronaries,nhcrimelog.incidenttype,02_incident_types.json,244,3,244,1
+2614,245,DROWNINGS,drownings,nhcrimelog.incidenttype,02_incident_types.json,245,2,245,1
+2615,246,FALLS,falls,nhcrimelog.incidenttype,02_incident_types.json,246,2,246,1
+2616,247,TAMPER.PRIVTE COMMUNICATIONS,tamperprivte-communications,nhcrimelog.incidenttype,02_incident_types.json,247,4,247,1
+2617,248,EAVESDROPPING,eavesdropping,nhcrimelog.incidenttype,02_incident_types.json,248,5,248,1
+2618,249,NON- MOTOR VEHICLE ACCIDENT,non-motor-vehicle-accident,nhcrimelog.incidenttype,02_incident_types.json,249,5,249,1
+2619,250,DOOR CHECKS,door-checks,nhcrimelog.incidenttype,02_incident_types.json,250,5,250,1
+2620,251,BOATING VIOLATIONS,boating-violations,nhcrimelog.incidenttype,02_incident_types.json,251,5,251,1
+2621,252,BUILDING FOUND OPEN,building-found-open,nhcrimelog.incidenttype,02_incident_types.json,252,5,252,1
+2622,253,CONSPIRACY,conspiracy,nhcrimelog.incidenttype,02_incident_types.json,253,3,253,1
+2623,254,MINOR JUVENILE COMPLAINTS,minor-juvenile-complaints,nhcrimelog.incidenttype,02_incident_types.json,254,5,254,0
+2624,255,NEIGHBOR TROUBLE,neighbor-trouble,nhcrimelog.incidenttype,02_incident_types.json,255,5,255,1
+2625,256,NOTIFICATION,notification,nhcrimelog.incidenttype,02_incident_types.json,256,5,256,1
+2626,257,PARK VIOLATION,park-violation,nhcrimelog.incidenttype,02_incident_types.json,257,5,257,1
+2630,258,PERSON HELD- OTHER TOWN,person-held-other-town,nhcrimelog.incidenttype,02_incident_types.json,258,5,258,1
+2631,259,PUBLIC HAZARDS,public-hazards,nhcrimelog.incidenttype,02_incident_types.json,259,5,259,1
+2632,260,UNWANTED PERSON,unwanted-person,nhcrimelog.incidenttype,02_incident_types.json,260,3,260,1
+2633,261,VACANT HOUSE,vacant-house,nhcrimelog.incidenttype,02_incident_types.json,261,4,261,1
+2634,262,OTHER MISCELLANEOUS,other-miscellaneous,nhcrimelog.incidenttype,02_incident_types.json,262,4,262,1
+2634F,263,OTHER MISCELLANEOUS (FIREARM),other-miscellaneous-firearm,nhcrimelog.incidenttype,02_incident_types.json,263,4,263,1
+2801,264,LOITERING SCHOOL GROUNDS,loitering-school-grounds,nhcrimelog.incidenttype,02_incident_types.json,264,4,264,1
+2802,265,LOITERING,loitering,nhcrimelog.incidenttype,02_incident_types.json,265,4,265,1
+2803,266,VAGRANCY,vagrancy,nhcrimelog.incidenttype,02_incident_types.json,266,4,266,1
+2804,267,BEGGING,begging,nhcrimelog.incidenttype,02_incident_types.json,267,4,267,1
+2805,268,CURFEW VIOLATIONS,curfew-violations,nhcrimelog.incidenttype,02_incident_types.json,268,4,268,1
+2806,269,LIVING CONDEMNED PROPERTY,living-condemned-property,nhcrimelog.incidenttype,02_incident_types.json,269,4,269,1
+2807,270,FOUND INTOXICATED,found-intoxicated,nhcrimelog.incidenttype,02_incident_types.json,270,4,270,1
+2808,271,COMMON DRUNKENESS,common-drunkeness,nhcrimelog.incidenttype,02_incident_types.json,271,4,271,1
+2809,272,PROWLER,prowler,nhcrimelog.incidenttype,02_incident_types.json,272,4,272,1
+2810,273,SUSPICIOUS PERSON,suspicious-person,nhcrimelog.incidenttype,02_incident_types.json,273,4,273,1
+2901,274,MISSING CHILD (AGED 1-6),missing-child-aged-16,nhcrimelog.incidenttype,02_incident_types.json,274,4,274,0
+2902,275,MISSING JUVENILE (AGED 7-15),missing-juvenile-aged-715,nhcrimelog.incidenttype,02_incident_types.json,275,4,275,0
+2903,276,MISSING ADULT (AGED 16&OVER),missing-adult-aged-16over,nhcrimelog.incidenttype,02_incident_types.json,276,4,276,1
+2904,277,YOUTH MISSING INSTITUTION,youth-missing-institution,nhcrimelog.incidenttype,02_incident_types.json,277,4,277,1
+2905,278,MISSING ANIMAL,missing-animal,nhcrimelog.incidenttype,02_incident_types.json,278,5,278,1
+2906,279,LOCATED CHILD (AGED 1-6),located-child-aged-16,nhcrimelog.incidenttype,02_incident_types.json,279,4,279,0
+2907,280,LOCATED JUVENILE (7-15),located-juvenile-715,nhcrimelog.incidenttype,02_incident_types.json,280,4,280,0
+2908,281,LOCATED ADULT (AGED 16&OVER),located-adult-aged-16over,nhcrimelog.incidenttype,02_incident_types.json,281,4,281,1
+2909,282,LOCATED YOUTH FR.INSTITUTION,located-youth-frinstitution,nhcrimelog.incidenttype,02_incident_types.json,282,4,282,1
+2910,283,LOCATED ANIMAL,located-animal,nhcrimelog.incidenttype,02_incident_types.json,283,4,283,1
+2911,284,FOUND CHILD (AGED 1-6),found-child-aged-16,nhcrimelog.incidenttype,02_incident_types.json,284,4,284,0
+2912,285,FOUND JUVENILE (AGED 7-15),found-juvenile-aged-715,nhcrimelog.incidenttype,02_incident_types.json,285,4,285,0
+2913,286,FOUND ADULT (AGED 16&OVER),found-adult-aged-16over,nhcrimelog.incidenttype,02_incident_types.json,286,4,286,1
+2914,287,FOUND ANIMAL,found-animal,nhcrimelog.incidenttype,02_incident_types.json,287,4,287,1
+2915,288,FOUND DEAD ANIMAL,found-dead-animal,nhcrimelog.incidenttype,02_incident_types.json,288,4,288,1
+2950,289,WANTED PERSON-NEW HAVEN,wanted-personnew-haven,nhcrimelog.incidenttype,02_incident_types.json,289,2,289,1
+2951,290,WANTED PERSON-OTHER TOWN,wanted-personother-town,nhcrimelog.incidenttype,02_incident_types.json,290,2,290,1
+2952,291,A.W.O.L.,awol,nhcrimelog.incidenttype,02_incident_types.json,291,2,291,1
+3001,292,M/V VIOLATIONS- MOVING VEH.,mv-violations-moving-veh,nhcrimelog.incidenttype,02_incident_types.json,292,3,292,1
+3002,293,M/V VIOLATIONS- PARKED VEH.,mv-violations-parked-veh,nhcrimelog.incidenttype,02_incident_types.json,293,4,293,1
+3003,294,EVADING RESPONSIBILITY,evading-responsibility,nhcrimelog.incidenttype,02_incident_types.json,294,3,294,1
+3004,295,M/V ACCIDENT- FATAL,mv-accident-fatal,nhcrimelog.incidenttype,02_incident_types.json,295,1,295,1
+3005,296,M/V ACCIDENT- NON-FATAL,mv-accident-nonfatal,nhcrimelog.incidenttype,02_incident_types.json,296,2,296,1
+3006,297,M/V ACCIDENT-PROPERTY DAMAGE,mv-accidentproperty-damage,nhcrimelog.incidenttype,02_incident_types.json,297,2,297,1
+3007,298,M/V ACCIDENT-PRIV. PROPERTY,mv-accidentpriv-property,nhcrimelog.incidenttype,02_incident_types.json,298,2,298,1
+3008,299,HITCH HIKING,hitch-hiking,nhcrimelog.incidenttype,02_incident_types.json,299,4,299,1
+3009,300,SUSPICIOUS ACTIVITY,suspicious-activity,nhcrimelog.incidenttype,02_incident_types.json,300,4,300,1
+3010,301,LICENSE/REG. CHECK,licensereg-check,nhcrimelog.incidenttype,02_incident_types.json,301,4,301,1
+3101,302,PROMOTE/POSSESS OBSCENE MAT.,promotepossess-obscene-mat,nhcrimelog.incidenttype,02_incident_types.json,302,5,302,1
+3102,303,PRODUCTION OBSCENE MAIL,production-obscene-mail,nhcrimelog.incidenttype,02_incident_types.json,303,5,303,1
+3103,304,PRESENTING INDECENT PERFORM.,presenting-indecent-perform,nhcrimelog.incidenttype,02_incident_types.json,304,5,304,1
+3104,305,PARTICIPATING INDEC.PERFORM.,participating-indecperform,nhcrimelog.incidenttype,02_incident_types.json,305,5,305,1
+3105,306,SALE OF OBSCENE MATERIAL,sale-of-obscene-material,nhcrimelog.incidenttype,02_incident_types.json,306,5,306,1
+3106,307,OBSCENITY TO MINORS,obscenity-to-minors,nhcrimelog.incidenttype,02_incident_types.json,307,4,307,1
+3107,308,DISSEMINATING INDECENT COMICS,disseminating-indecent-comics,nhcrimelog.incidenttype,02_incident_types.json,308,5,308,1
+3201,309,VIOLATION OF ELECTION LAWS,violation-of-election-laws,nhcrimelog.incidenttype,02_incident_types.json,309,3,309,1
+3202,310,IMMIGRATION LAW VIOLATION,immigration-law-violation,nhcrimelog.incidenttype,02_incident_types.json,310,3,310,1
+3203,311,LABOR LAW VIOLATION,labor-law-violation,nhcrimelog.incidenttype,02_incident_types.json,311,2,311,1
+3204,312,HOUSING CODE VIOLATION,housing-code-violation,nhcrimelog.incidenttype,02_incident_types.json,312,5,312,1
+3205,313,BUILDING CODE VIOLATION,building-code-violation,nhcrimelog.incidenttype,02_incident_types.json,313,5,313,1
+3206,314,SANITATION CODE VIOLATION,sanitation-code-violation,nhcrimelog.incidenttype,02_incident_types.json,314,5,314,1
+3207,315,HEALTH CODE VIOLATION,health-code-violation,nhcrimelog.incidenttype,02_incident_types.json,315,5,315,1
+3208,316,POLLUTION CODE VIOLATION,pollution-code-violation,nhcrimelog.incidenttype,02_incident_types.json,316,5,316,1
+3209,317,ZONING VIOLATIONS,zoning-violations,nhcrimelog.incidenttype,02_incident_types.json,317,5,317,1
+3210,318,BLUE LAW VIOLATIONS,blue-law-violations,nhcrimelog.incidenttype,02_incident_types.json,318,5,318,1
+3211,319,OTHER CODE VIOLATIONS,other-code-violations,nhcrimelog.incidenttype,02_incident_types.json,319,5,319,1
+3250,320,PRACTICING MEDICINE W/O LIC,practicing-medicine-wo-lic,nhcrimelog.incidenttype,02_incident_types.json,320,4,320,1
+3251,321,PRACTICING LAW W/O LICENSE,practicing-law-wo-license,nhcrimelog.incidenttype,02_incident_types.json,321,4,321,1
+3252,322,CONDUCTING PARTY W/O PERMIT,conducting-party-wo-permit,nhcrimelog.incidenttype,02_incident_types.json,322,4,322,1
+3253,323,BUILDING W/O PERMIT,building-wo-permit,nhcrimelog.incidenttype,02_incident_types.json,323,4,323,1
+3254,324,PEDDLING W/O PERMIT,peddling-wo-permit,nhcrimelog.incidenttype,02_incident_types.json,324,4,324,1
+3255,325,IMPERSONATING POLICE OFFICER,impersonating-police-officer,nhcrimelog.incidenttype,02_incident_types.json,325,3,325,1
+3256,326,OTHER LICENSE VIOLATION,other-license-violation,nhcrimelog.incidenttype,02_incident_types.json,326,3,326,1
+3300,327,GAME LAWS,game-laws,nhcrimelog.incidenttype,02_incident_types.json,327,3,327,1
+3401,328,PERJURY,perjury,nhcrimelog.incidenttype,02_incident_types.json,328,2,328,1
+3402,329,CONTEMPT OF COURT,contempt-of-court,nhcrimelog.incidenttype,02_incident_types.json,329,3,329,1
+3403,330,PROBATION VIOLATION,probation-violation,nhcrimelog.incidenttype,02_incident_types.json,330,3,330,1
+3404,331,INJUNCTION VIOLATION,injunction-violation,nhcrimelog.incidenttype,02_incident_types.json,331,3,331,1
+3405,332,F.T.A.- 1ST DEGREE,fta-1st-degree,nhcrimelog.incidenttype,02_incident_types.json,332,2,332,1
+3406,333,F.T.A.- 2ND DEGREE,fta-2nd-degree,nhcrimelog.incidenttype,02_incident_types.json,333,3,333,1
+3407,334,F.T.A.- JUVENILE COURT,fta-juvenile-court,nhcrimelog.incidenttype,02_incident_types.json,334,3,334,0
+3500,335,PROBATION VIOLATOR,probation-violator,nhcrimelog.incidenttype,02_incident_types.json,335,3,335,1
+3600,336,PAROLE VIOLATOR,parole-violator,nhcrimelog.incidenttype,02_incident_types.json,336,3,336,1
+3700,337,MAND/CONDITIONAL RELEASE VIO,mandconditional-release-vio,nhcrimelog.incidenttype,02_incident_types.json,337,3,337,1
+3800,338,BAIL VIOLATIONS,bail-violations,nhcrimelog.incidenttype,02_incident_types.json,338,3,338,1
+3901,339,ESCAPE CORRECTIONAL INSTIT,escape-correctional-instit,nhcrimelog.incidenttype,02_incident_types.json,339,3,339,1
+3902,340,ESCAPE FROM CUSTODY,escape-from-custody,nhcrimelog.incidenttype,02_incident_types.json,340,3,340,1
+3903,341,PRISONER RECOVERED,prisoner-recovered,nhcrimelog.incidenttype,02_incident_types.json,341,3,341,1
+3904,342,ESCAPE FROM HOSPITAL,escape-from-hospital,nhcrimelog.incidenttype,02_incident_types.json,342,3,342,1
+3905,343,HOSPITAL ESCAPEE RECOVERED,hospital-escapee-recovered,nhcrimelog.incidenttype,02_incident_types.json,343,3,343,1
+3906,344,REFORMATORY ESCAPEE RECOVRD,reformatory-escapee-recovrd,nhcrimelog.incidenttype,02_incident_types.json,344,3,344,1
+3907,345,CONVEY/POSEESS UNAUTH.ITEMS,conveyposeess-unauthitems,nhcrimelog.incidenttype,02_incident_types.json,345,3,345,1
+3908,346,AIDING AN ESCAPE,aiding-an-escape,nhcrimelog.incidenttype,02_incident_types.json,346,3,346,1
+3909,347,POSS.WEAPON/CORRECTIONAL INST,possweaponcorrectional-inst,nhcrimelog.incidenttype,02_incident_types.json,347,2,347,1
+4000,348,BLACKMAIL- EXTORTION,blackmail-extortion,nhcrimelog.incidenttype,02_incident_types.json,348,2,348,1
+4100,349,JUVENILE DELINQUENCY,juvenile-delinquency,nhcrimelog.incidenttype,02_incident_types.json,349,3,349,0
+4201,350,PERFORMING AN ABORTION,performing-an-abortion,nhcrimelog.incidenttype,02_incident_types.json,350,4,350,1
+4202,351,ATTEMPTED ABORTION,attempted-abortion,nhcrimelog.incidenttype,02_incident_types.json,351,4,351,1
+4203,352,HAVING ABORTION PERFORMED,having-abortion-performed,nhcrimelog.incidenttype,02_incident_types.json,352,4,352,1
+4301,353,BRIBERY,bribery,nhcrimelog.incidenttype,02_incident_types.json,353,4,353,1
+4302,354,BRIBERY OF POLICE OFFICER,bribery-of-police-officer,nhcrimelog.incidenttype,02_incident_types.json,354,4,354,1
+4303,355,ATTEMPTED BRIBERY,attempted-bribery,nhcrimelog.incidenttype,02_incident_types.json,355,4,355,1
+4303r,356,BRIBE RECEIVING,bribe-receiving,nhcrimelog.incidenttype,02_incident_types.json,356,4,356,1
+4305,357,COMMERCIAL BRIBERY,commercial-bribery,nhcrimelog.incidenttype,02_incident_types.json,357,4,357,1
+4306,358,TAMPERING WITH A JUROR,tampering-with-a-juror,nhcrimelog.incidenttype,02_incident_types.json,358,3,358,1
+4307,359,FALSE STATEMENT,false-statement,nhcrimelog.incidenttype,02_incident_types.json,359,3,359,1
+4308,360,SOLICIT. BENEFIT FOR RIGGING,solicit-benefit-for-rigging,nhcrimelog.incidenttype,02_incident_types.json,360,4,360,1
+4309,361,PARTICIPATING RIGGED CONTEST,participating-rigged-contest,nhcrimelog.incidenttype,02_incident_types.json,361,4,361,1
+4401,362,INTERFERING WITH AN OFFICER,interfering-with-an-officer,nhcrimelog.incidenttype,02_incident_types.json,362,3,362,1
+4402,363,FAIL TO ASSIST PD OFFICER,fail-to-assist-pd-officer,nhcrimelog.incidenttype,02_incident_types.json,363,3,363,1
+4403,364,HINDERING PROSECUTION,hindering-prosecution,nhcrimelog.incidenttype,02_incident_types.json,364,3,364,1
+4404,365,TAMPER./FABRICATING EVIDENCE,tamperfabricating-evidence,nhcrimelog.incidenttype,02_incident_types.json,365,2,365,1
+4405,366,FALSELY REPORTING INCIDENT,falsely-reporting-incident,nhcrimelog.incidenttype,02_incident_types.json,366,3,366,1
+4450,367,DISCRIMINATION- HOUSING,discrimination-housing,nhcrimelog.incidenttype,02_incident_types.json,367,3,367,1
+4451,368,DISCRIMINATION-ACCOMMODATIONS,discriminationaccommodations,nhcrimelog.incidenttype,02_incident_types.json,368,3,368,1
+4452,369,DISCRIMINATION-EMPLOYMENT,discriminationemployment,nhcrimelog.incidenttype,02_incident_types.json,369,3,369,1
+4453,370,DISCRIMINATION-OTHER,discriminationother,nhcrimelog.incidenttype,02_incident_types.json,370,3,370,1
+4454,371,DEPRIVING CIVIL LIBERTIES,depriving-civil-liberties,nhcrimelog.incidenttype,02_incident_types.json,371,3,371,1
+4501,372,KIDNAPPING,kidnapping,nhcrimelog.incidenttype,02_incident_types.json,372,1,372,1
+4502,373,ATTEMPTED KIDNAPPING,attempted-kidnapping,nhcrimelog.incidenttype,02_incident_types.json,373,1,373,1
+4503,374,UNLAWFUL RESTRAINT,unlawful-restraint,nhcrimelog.incidenttype,02_incident_types.json,374,3,374,1
+4504,375,CUSTODIAL INTERFERENCE,custodial-interference,nhcrimelog.incidenttype,02_incident_types.json,375,3,375,1
+4505,376,SUBSTITUTION OF CHILDREN,substitution-of-children,nhcrimelog.incidenttype,02_incident_types.json,376,3,376,1
+4506,377,ABDUCTION TO MARRY,abduction-to-marry,nhcrimelog.incidenttype,02_incident_types.json,377,3,377,1
+4601,378,CONTRIBUTING TO JUV. DELINQ,contributing-to-juv-delinq,nhcrimelog.incidenttype,02_incident_types.json,378,3,378,0
+4602,379,ADMIT MINOR IMPROPER PLACE,admit-minor-improper-place,nhcrimelog.incidenttype,02_incident_types.json,379,3,379,1
+4701,380,FORGERY INSTRUMENT/GOVERNMENT,forgery-instrumentgovernment,nhcrimelog.incidenttype,02_incident_types.json,380,3,380,1
+4702,381,FORGERY OF SYMBOLS OF VALUE,forgery-of-symbols-of-value,nhcrimelog.incidenttype,02_incident_types.json,381,3,381,1
+4703,382,USING SLUGS,using-slugs,nhcrimelog.incidenttype,02_incident_types.json,382,5,382,1
+4704,383,POSSESS/USE COUNTERFEIT APP,possessuse-counterfeit-app,nhcrimelog.incidenttype,02_incident_types.json,383,4,383,1
+4801,384,POLICE GARAGE- SERVICE,police-garage-service,nhcrimelog.incidenttype,02_incident_types.json,384,7,384,1
+4802,385,CHIEFS OFFICE,chiefs-office,nhcrimelog.incidenttype,02_incident_types.json,385,7,385,1
+4803,386,PATROL DIVISION,patrol-division,nhcrimelog.incidenttype,02_incident_types.json,386,7,386,1
+4804,387,DETECTIVE DIVISION,detective-division,nhcrimelog.incidenttype,02_incident_types.json,387,7,387,1
+4805,388,TRAFFIC DIVISION,traffic-division,nhcrimelog.incidenttype,02_incident_types.json,388,7,388,1
+4806,389,PERSONAL,personal,nhcrimelog.incidenttype,02_incident_types.json,389,7,389,1
+4807,390,LUNCH,lunch,nhcrimelog.incidenttype,02_incident_types.json,390,7,390,1
+4808,391,ANIMAL SHELTER,animal-shelter,nhcrimelog.incidenttype,02_incident_types.json,391,7,391,1
+4809,392,COURT DUTY,court-duty,nhcrimelog.incidenttype,02_incident_types.json,392,7,392,1
+4810,393,OTHER INTERNAL FUNCTIONS,other-internal-functions,nhcrimelog.incidenttype,02_incident_types.json,393,7,393,1
+4811,394,TRAFFIC DUTY,traffic-duty,nhcrimelog.incidenttype,02_incident_types.json,394,7,394,1
+4812,395,ESCORT DUTY,escort-duty,nhcrimelog.incidenttype,02_incident_types.json,395,7,395,1
+4813,396,SUPPLEMENTARY INVESTIGATION,supplementary-investigation,nhcrimelog.incidenttype,02_incident_types.json,396,7,396,1
+4820,397,PUBLIC ASSISTANCE RENDERED,public-assistance-rendered,nhcrimelog.incidenttype,02_incident_types.json,397,7,397,1
+4850,398,WARRANT SERVICE,warrant-service,nhcrimelog.incidenttype,02_incident_types.json,398,7,398,1
+4851,399,SUBPOENA SERVICE,subpoena-service,nhcrimelog.incidenttype,02_incident_types.json,399,7,399,1
+4852,400,DETENTION NOTICE,detention-notice,nhcrimelog.incidenttype,02_incident_types.json,400,7,400,1
+4853,401,MEDICAL ASSISTANCE NEEDED,medical-assistance-needed,nhcrimelog.incidenttype,02_incident_types.json,401,7,401,1
+4854,402,MEDICAL ASSISTANCE RENDERED,medical-assistance-rendered,nhcrimelog.incidenttype,02_incident_types.json,402,7,402,1
+4855,403,BURGLAR ALARMS,burglar-alarms,nhcrimelog.incidenttype,02_incident_types.json,403,5,403,1
+4855F,404,FALSE ALARM,false-alarm,nhcrimelog.incidenttype,02_incident_types.json,404,6,404,1
+4856,405,FIRE ALARMS- FIRE,fire-alarms-fire,nhcrimelog.incidenttype,02_incident_types.json,405,4,405,1
+4857,406,FIRE ALARMS- NO FIRE,fire-alarms-no-fire,nhcrimelog.incidenttype,02_incident_types.json,406,6,406,1
+4858,407,FIRE- NO ALARM,fire-no-alarm,nhcrimelog.incidenttype,02_incident_types.json,407,4,407,1
+4859,408,HOLDUP ALARMS,holdup-alarms,nhcrimelog.incidenttype,02_incident_types.json,408,2,408,1
+4860,409,OTHER ALARMS,other-alarms,nhcrimelog.incidenttype,02_incident_types.json,409,4,409,1
+4861,410,INTELLIGENCE INV-SUBVERSION,intelligence-invsubversion,nhcrimelog.incidenttype,02_incident_types.json,410,4,410,1
+4862,411,INTELLIGENCE INV.-CRIME,intelligence-invcrime,nhcrimelog.incidenttype,02_incident_types.json,411,4,411,1
+4863,412,INTERNAL INV.- BRUTALITY,internal-inv-brutality,nhcrimelog.incidenttype,02_incident_types.json,412,4,412,1
+4864,413,INTERNAL INV.- CORRUPTION,internal-inv-corruption,nhcrimelog.incidenttype,02_incident_types.json,413,4,413,1
+4865,414,INTERNAL INV.- BACKGROUND,internal-inv-background,nhcrimelog.incidenttype,02_incident_types.json,414,4,414,1
+4866,415,INTERNAL INV.- OTHER,internal-inv-other,nhcrimelog.incidenttype,02_incident_types.json,415,4,415,1
+4867,416,BACKGROUND INVESTIGATION,background-investigation,nhcrimelog.incidenttype,02_incident_types.json,416,7,416,1
+4868,417,STAKEOUT,stakeout,nhcrimelog.incidenttype,02_incident_types.json,417,3,417,1
+4869,418,DRUG INVESTIGATION,drug-investigation,nhcrimelog.incidenttype,02_incident_types.json,418,3,418,1
+4870,419,GAMBLING INVESTIGATION,gambling-investigation,nhcrimelog.incidenttype,02_incident_types.json,419,3,419,1
+4871,420,CIVIL INVESTIGATION,civil-investigation,nhcrimelog.incidenttype,02_incident_types.json,420,3,420,1
+4872,421,FIELD INTERROGATION,field-interrogation,nhcrimelog.incidenttype,02_incident_types.json,421,3,421,1
+4873,422,OTHER INVESTIGATION,other-investigation,nhcrimelog.incidenttype,02_incident_types.json,422,3,422,1
+4901,423,INCIDENT UNFOUNDED,incident-unfounded,nhcrimelog.incidenttype,02_incident_types.json,423,7,423,1
+4902,424,WRONG ADDRESS,wrong-address,nhcrimelog.incidenttype,02_incident_types.json,424,7,424,1
+4903,425,UNABLE TO LOCATE COMPLAINANT,unable-to-locate-complainant,nhcrimelog.incidenttype,02_incident_types.json,425,7,425,1
+9999,426,DISPOSITION NEVER RECEIVED (99),disposition-never-received-99,nhcrimelog.incidenttype,02_incident_types.json,426,7,426,1
